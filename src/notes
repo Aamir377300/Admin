@@ -1,0 +1,14 @@
+admin-panel/
+│── src/
+│   ├── components/
+│   │   ├── UniversityForm.js       # Form for adding universities
+│   │   ├── UniversityList.js       # List of universities with delete option
+│   ├── pages/
+│   │   ├── Login.js                # Admin login page
+│   │   ├── Dashboard.js            # Admin dashboard page
+│   ├── supabaseClient.js           # Supabase connection
+│   ├── App.js                      # Main App component with routing
+│   ├── index.js                    # React entry point
+│── public/
+│── package.json
+│── README.md
